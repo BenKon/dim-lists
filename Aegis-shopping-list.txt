@@ -1,0 +1,145 @@
+title:Aegis Google Shoppinglist
+description:https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit#gid=1062099834
+
+// Retraced Path ()
+dimwishlist:item=548958835&perks=3700496672,3523296417
+dimwishlist:item=548958835&perks=3700496672,4293542123
+
+
+// Forbearance ()
+dimwishlist:item=568611921&perks=3108830275,2396489472
+dimwishlist:item=568611921&perks=3523296417,2396489472
+dimwishlist:item=568611921&perks=2010801679,2396489472
+
+
+// The Mountaintop (pve)
+//notes: tags:pve
+dimwishlist:item=568611922&perks=3300816228,1546637391
+dimwishlist:item=568611922&perks=3300816228,469285294
+
+
+// Edge Transit ()
+dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=568611923&perks=3751912585,3078487919
+
+
+// Revision Zero ()
+dimwishlist:item=1473821207&perks=1546637391,1266037486
+
+
+// Wastelander M5 ()
+dimwishlist:item=1679868061&perks=1556840489,2679249093
+dimwishlist:item=1679868061&perks=691659142,2679249093
+dimwishlist:item=1679868061&perks=691659142,1546637391
+dimwishlist:item=1679868061&perks=1556840489,1546637391
+
+
+// No Hesitation ()
+dimwishlist:item=1801007332&perks=2980589453,2298656195
+dimwishlist:item=1801007332&perks=3523296417,2298656195
+dimwishlist:item=1801007332&perks=2980589453,4104185692
+dimwishlist:item=1801007332&perks=3523296417,4104185692
+dimwishlist:item=1801007332&perks=3523296417,4293542123
+dimwishlist:item=1801007332&perks=2980589453,4293542123
+
+
+// Falling Guillotine ()
+dimwishlist:item=1815105249&perks=4104185692,2077819806
+dimwishlist:item=1815105249&perks=4104185692,3078487919
+dimwishlist:item=1815105249&perks=2396489472,3078487919
+dimwishlist:item=1815105249&perks=2396489472,2077819806
+
+
+// Apex Predator ()
+dimwishlist:item=1851777734&perks=1523832109,1439600632
+dimwishlist:item=1851777734&perks=1523832109,3078487919
+
+
+// Twilight Oath ()
+dimwishlist:item=1874424704&perks=968510818,1546637391
+dimwishlist:item=1874424704&perks=968510818,555281244
+
+
+// Hammerhead ()
+dimwishlist:item=1896309757&perks=3425386926,557221067
+dimwishlist:item=1896309757&perks=3425386926,95528736
+dimwishlist:item=1896309757&perks=3418782618,557221067
+dimwishlist:item=1896309757&perks=3418782618,95528736
+
+
+// Blast Furnace ()
+dimwishlist:item=2372514508&perks=3891536761,3824105627
+dimwishlist:item=2372514508&perks=3891536761,4104185692
+dimwishlist:item=2372514508&perks=3891536761,4049631843
+
+
+// Scatter Signal ()
+dimwishlist:item=2558925366&perks=3643424744,2594592626
+dimwishlist:item=2558925366&perks=923806249,2594592626
+
+
+// Riptide ()
+dimwishlist:item=2715240478&perks=1556840489,2978966579
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+
+
+// Midnight Coup ()
+//notes: tags:pve
+dimwishlist:item=2763843898&perks=3824105627,4049631843
+dimwishlist:item=2763843898&perks=3824105627,4104185692
+dimwishlist:item=2763843898&perks=3038247973,4049631843
+dimwishlist:item=2763843898&perks=3038247973,4104185692
+
+
+// Luna's Howl ()
+dimwishlist:item=2763843899&perks=3017780555,4293542123
+
+
+// Semiotician ()
+dimwishlist:item=2922749929&perks=2869569095,1439600632
+
+
+// Adhortative ()
+dimwishlist:item=2993554824&perks=3017780555,4293542123
+
+
+// Indebted Kindness ()
+dimwishlist:item=3381450498&perks=1556840489,2173046394
+dimwishlist:item=3381450498&perks=1556840489,3708227201
+dimwishlist:item=3381450498&perks=951095735,3708227201
+dimwishlist:item=3381450498&perks=951095735,2173046394
+
+
+// Succession ()
+dimwishlist:item=3612338554&perks=1523832109,1546637391
+dimwishlist:item=3612338554&perks=1523832109,469285294
+
+
+// Dead Weight ()
+dimwishlist:item=3738678140&perks=1631667848,2679249093
+dimwishlist:item=3738678140&perks=1631667848,4104185692
+dimwishlist:item=3738678140&perks=1631667848,3708227201
+dimwishlist:item=3738678140&perks=1556840489,3708227201
+dimwishlist:item=3738678140&perks=1556840489,4104185692
+dimwishlist:item=3738678140&perks=1556840489,2679249093
+dimwishlist:item=3738678140&perks=3300816228,2679249093
+dimwishlist:item=3738678140&perks=3300816228,3708227201
+dimwishlist:item=3738678140&perks=3300816228,4104185692
+
+
+// Outbreak Perfected ()
+dimwishlist:item=3824673936&perks=2578928832
+
+
+// Pardon Our Dust (pve)
+//notes: tags:pve
+dimwishlist:item=3849810018&perks=3300816228,3523296417
+
+
+// The Call ()
+dimwishlist:item=3947966653&perks=1556840489,2109543898
+dimwishlist:item=3947966653&perks=1556840489,831391274
+dimwishlist:item=3947966653&perks=923806249,2109543898
+dimwishlist:item=3947966653&perks=923806249,831391274
+
+
